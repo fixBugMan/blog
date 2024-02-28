@@ -27,7 +27,7 @@ git push -u origin main
 
 **扩展技巧**：
 
-- **使用Jekyll制作博客**：Jekyll可以让你用优美的Markdown语法写博客，无需处理数据库。[点击这里学习如何设置Jekyll](https://jekyllrb.com/docs/)。
+- **使用Jekyll制作博客**：Jekyll可以让你用优美的Markdown语法写博客，无需处理数据库。[点击这里学习如何设置Jekyll](https://app.recraft.ai/project/0f7632d7-a5f4-42a2-8ff5-9be3177d14c6)。
 - **自定义URL**：如果你想用自己的自定义域名，只需创建一个名叫CNAME的文件并输入你的URL。
 - **进阶教程**：你可以学习如何创建自定义404页面，如何使用子模块，以及更多关于GitHub Pages的知识。
 
